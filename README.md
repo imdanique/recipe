@@ -2,3 +2,4 @@
 
 Used in teaching Git.
 New line added
+Another line
