@@ -1,5 +1,5 @@
-# Guacamole recipe
+# Coderefinery Workshop 2023
 
-Used in teaching Git.
-New line added
-Another line
+This repo is dedicated to the workshop 
+
+Used in studying Git.
